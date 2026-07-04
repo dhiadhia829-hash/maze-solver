@@ -22,3 +22,7 @@ S - start
 E - end  
 # - wall  
 * - path
+
+
+
+     
