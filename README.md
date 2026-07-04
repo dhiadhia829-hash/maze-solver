@@ -17,11 +17,7 @@ A Python project that generates a random maze and solves it using different sear
 +How to run
 python maze_solver.py
 
-+Symbols
-S - start  
-E - end  
-# - wall  
-* - path
+
 
 
 
